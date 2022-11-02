@@ -1,0 +1,12 @@
+# remove all cache folder
+**/.ipynb_checkpoints
+**/__pycache__
+
+# remove tmp folders
+**/tmp/
+
+# remove tex
+**/tex/
+
+# drawing originals
+**.drawio
