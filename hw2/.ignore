@@ -1,0 +1,11 @@
+dev/*
+tex/*
+
+.vscode/*
+
+*.md
+
+*.o
+*.mod
+
+.ignore
