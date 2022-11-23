@@ -11,7 +11,7 @@ The weekly homeworks of QIC course (Prof. S. Montangero).
 
 #### **HW 1** (due 1 nov)
 
-Evaluation: ⭐⭐⭐⭐
+Evaluation: ⭐⭐⭐⭐/4
 
 1. **Warm-up Fortran program** | I choose to implement the 4th order central difference.
 2. **Integer and real numbers** | Overflow issues of variable types.
@@ -20,7 +20,7 @@ Evaluation: ⭐⭐⭐⭐
 
 #### **HW 2** (due 8 nov)
 
-Evaluation: ⭐⭐⭐⭐
+Evaluation: ⭐⭐⭐⭐/4
 
 1. **Checkpoint subroutine** | Write a checkpoint subroutine for debugging.
 2. **Documentation** | Rewrite HW1/EXR3 with documentation.
