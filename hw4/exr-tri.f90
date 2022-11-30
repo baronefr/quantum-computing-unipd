@@ -39,6 +39,7 @@ program main
 
     !  ARG 2:  max value of x (real)
     call get_command_argument(2, cmdarg)
+    read(cmdarg, *) xmax
     print *, "   xmax =", xmax
 
     !  ARG 3:  output file prefix [string]
