@@ -29,7 +29,7 @@ Evaluation: ⭐⭐⭐⭐/4
 
 #### **HW 3** (due 22 nov)
 
-Evaluation: *pending*
+Evaluation: ⭐⭐⭐⭐/4
 
 1. **Matrix product CPU time benchmarking** | Write a python script to automatize the benchmarking process (I already did this with a bash script in HW1).
 2. **Diagonalize a complex matrix** | Use LAPACK routines to generate random hermitian matrices and diagonalize.
@@ -45,8 +45,14 @@ Evaluation: *pending*
 
 Evaluation: *pending*
 
-1. Solve the **time independent Schrödinger equation** with finite difference method for an **harmonic oscillator**.
+* Solve the **time independent Schrödinger equation** with finite difference method.
 
+
+#### **HW 5** (due 6 dec)
+
+Evaluation: *pending*
+
+* Solve the **time dependent Schrödinger equation** with Trotter-Suzuki expansion.
 
 
 <br>
