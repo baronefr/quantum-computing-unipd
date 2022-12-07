@@ -43,7 +43,7 @@ Evaluation: ⭐⭐⭐⭐/4
 
 #### **HW 4** (due 29 nov)
 
-Evaluation: *pending*
+Evaluation: ⭐⭐⭐⭐/4
 
 * Solve the **time independent Schrödinger equation** with finite difference method.
 
@@ -54,8 +54,25 @@ Evaluation: *pending*
 
 * Solve the **time dependent Schrödinger equation** with Trotter-Suzuki expansion.
 
-
 <br>
+
+
+### Topic 3: many-body methods
+
+
+#### **HW 6** (due 13 dec)
+
+Evaluation: *pending*
+
+* Description of systems with density matrices: representation in FORTRAN and partial trace operation
+
+
+#### **HW 7** (due 20 dec)
+
+Evaluation: *pending*
+
+* $N$ spin-1/2 particles on a one-dimensional lattice
+
 
 ***
 
