@@ -1,6 +1,6 @@
 # Quantum Information and Computing
 
-The weekly homeworks of QIC course (Prof. S. Montangero).
+The weekly homeworks of QIC course (Prof. Simone Montangero).
 
 <br>
 
@@ -45,33 +45,40 @@ Evaluation: ⭐⭐⭐⭐/4
 
 Evaluation: ⭐⭐⭐⭐/4
 
-* Solve the **time independent Schrödinger equation** with finite difference method.
+* Solution of the **time independent Schrödinger equation** using finite difference methods.
 
 
 #### **HW 5** (due 6 dec)
 
-Evaluation: *pending*
+Evaluation: ⭐⭐⭐⭐/4
 
-* Solve the **time dependent Schrödinger equation** with Trotter-Suzuki expansion.
+* Solution of the **time dependent Schrödinger equation** with Trotter-Suzuki expansion.
 
 <br>
 
 
-### Topic 3: many-body methods
+### Topic 3: many-body systems
 
 
 #### **HW 6** (due 13 dec)
 
-Evaluation: *pending*
+Evaluation: ⭐⭐⭐⭐/4
 
-* Description of systems with density matrices: representation in FORTRAN and partial trace operation
+* Description of systems with density matrices: representation in FORTRAN and implementation of partial trace subroutine.
 
 
 #### **HW 7** (due 20 dec)
 
 Evaluation: *pending*
 
-* $N$ spin-1/2 particles on a one-dimensional lattice
+* Exact diagonalization of $N$ spin-1/2 particles on a one-dimensional lattice (transverse field Ising model)
+
+
+#### **HW 8** (due 6 jan)
+
+Evaluation: *pending*
+
+* Transverse field Ising model with Renormalization Group and Infinite Density Matrix Renormalization Group.
 
 
 ***
