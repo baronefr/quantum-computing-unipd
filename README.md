@@ -1,15 +1,15 @@
 # Quantum Information and Computing
 
-The weekly homeworks of QIC course (Prof. Simone Montangero).
+The weekly homeworks of QIC [class](https://en.didattica.unipd.it/off/2021/LM/SC/SC2443/000ZZ/SCP8082721/N0) (Prof. Simone Montangero).
 
 <br>
 
 
 
-### Topic 1: introduction to FORTRAN and numerical methods
+### Topic 1: introduction to FORTRAN and LAPACK
 
 
-#### **HW 1** (due 1 nov)
+#### **[HW 1](slides/hw1-Barone-SLIDES.pdf)** (due 1 nov)
 
 Evaluation: ⭐⭐⭐⭐/4
 
@@ -18,7 +18,7 @@ Evaluation: ⭐⭐⭐⭐/4
 3. **Matrix product CPU time benchmarking** | Benchmark the CPU time of matrix product functions: nested loops vs `matmul`.
 
 
-#### **HW 2** (due 8 nov)
+#### **[HW 2](slides/hw2-Barone-SLIDES.pdf)** (due 8 nov)
 
 Evaluation: ⭐⭐⭐⭐/4
 
@@ -27,7 +27,7 @@ Evaluation: ⭐⭐⭐⭐/4
 3. **Complex matrix type** | Define a Complex Matrix type, with appropriate routines for initialization, deallocation and some math interfaces.
 
 
-#### **HW 3** (due 22 nov)
+#### **[HW 3](slides/hw3-Barone-SLIDES.pdf)** (due 22 nov)
 
 Evaluation: ⭐⭐⭐⭐/4
 
@@ -41,14 +41,14 @@ Evaluation: ⭐⭐⭐⭐/4
 ### Topic 2: solutions to Schrödinger equation
 
 
-#### **HW 4** (due 29 nov)
+#### **[HW 4](slides/hw4-Barone-SLIDES.pdf)** (due 29 nov)
 
 Evaluation: ⭐⭐⭐⭐/4
 
-* Solution of the **time independent Schrödinger equation** using finite difference methods.
+* Solution of the **time independent Schrödinger equation**. Finite difference methods have been used to compute the second order derivative.
 
 
-#### **HW 5** (due 6 dec)
+#### **[HW 5](slides/hw5-Barone-SLIDES.pdf)** (due 6 dec)
 
 Evaluation: ⭐⭐⭐⭐/4
 
@@ -60,25 +60,25 @@ Evaluation: ⭐⭐⭐⭐/4
 ### Topic 3: many-body systems
 
 
-#### **HW 6** (due 13 dec)
+#### **[HW 6](slides/hw6-Barone-SLIDES.pdf)** (due 13 dec)
 
 Evaluation: ⭐⭐⭐⭐/4
 
-* Description of systems with density matrices: representation in FORTRAN and implementation of partial trace subroutine.
+* Description of systems with **density matrices**: representation in FORTRAN and implementation of **partial trace** subroutine.
 
 
-#### **HW 7** (due 20 dec)
-
-Evaluation: *pending*
-
-* Exact diagonalization of $N$ spin-1/2 particles on a one-dimensional lattice (transverse field Ising model)
-
-
-#### **HW 8** (due 6 jan)
+#### **[HW 7](slides/hw7-Barone-SLIDES.pdf)** (due 20 dec)
 
 Evaluation: *pending*
 
-* Transverse field Ising model with Renormalization Group and Infinite Density Matrix Renormalization Group.
+* **Transverse field Ising model**: exact diagonalization of $N$ spin-1/2 particles on a **one-dimensional lattice**.
+
+
+#### **[HW 8](slides/hw8-Barone-SLIDES.pdf)** (due 6 jan)
+
+Evaluation: *pending*
+
+* Transverse field Ising model with **Real Space Renormalization Group** and **Infinite Density Matrix Renormalization Group**.
 
 
 ***
