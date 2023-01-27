@@ -69,14 +69,17 @@ Evaluation: ⭐⭐⭐⭐/4
 
 #### **[HW 7](slides/hw7-Barone-SLIDES.pdf)** (due 20 dec)
 
-Evaluation: *pending*
+Evaluation: ⭐⭐⭐⭐/4
 
 * **Transverse field Ising model**: exact diagonalization of $N$ spin-1/2 particles on a **one-dimensional lattice**.
 
 
 #### **[HW 8](slides/hw8-Barone-SLIDES.pdf)** (due 6 jan)
 
-Evaluation: *pending*
+Evaluation: ⭐⭐⭐⭐/4
+<br>
+My evaluation:⭐⭐⭐☆/4
+> I could have done something better, to improve the convergence speed. Maybe I will play with this HW again later on...
 
 * Transverse field Ising model with **Real Space Renormalization Group** and **Infinite Density Matrix Renormalization Group**.
 
